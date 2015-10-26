@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/addhub/prototype.png?label=ready&title=Ready)](https://waffle.io/addhub/prototype)
 Advertisement pull/pusher.  Prototype of addhub.com
 
 
